@@ -1488,7 +1488,7 @@ export const companiesList: Company[] = [
   {
     name: 'Hack Reactor Remote',
     website: 'https://www.hackreactor.com/remote/',
-    region: 'Pacific Time Zone (PT)',
+    region: 'PST',
   },
   {
     name: 'Hanno',
