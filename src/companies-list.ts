@@ -1518,7 +1518,7 @@ export const companiesList: Company[] = [
   {
     name: 'HashiCorp',
     website: 'https://www.hashicorp.com/',
-    region: 'USA, Canada, UK, DE, FR, NL, AU, JPN',
+    region: 'USA, Canada, UK, DE, FR, NL, AU, Japan',
   },
   {
     name: 'HE:labs',
@@ -2358,7 +2358,7 @@ export const companiesList: Company[] = [
   {
     name: "O'Reilly Media",
     website: 'https://www.oreilly.com/',
-    region: 'USA, UK, JPN, CHN',
+    region: 'USA, UK, Japan, CHN',
   },
   {
     name: "O'Reilly Online Learning",
