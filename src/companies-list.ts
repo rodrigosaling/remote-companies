@@ -3656,7 +3656,7 @@ export const companiesList: Company[] = [
   {
     name: 'Zeit.io',
     website: 'https://zeit.io/',
-    region: 'Germany, The Netherlands, Spain, Chile',
+    region: 'Germany, Netherlands, Spain, Chile',
   },
   {
     name: 'ZenRows',
