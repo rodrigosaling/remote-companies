@@ -1473,7 +1473,7 @@ export const companiesList: Company[] = [
   {
     name: 'Grubhub',
     website: 'https://www.grubhub.com/',
-    region: 'United States / Worldwide',
+    region: 'United States, Worldwide',
   },
   {
     name: 'Gruntwork',
@@ -2616,7 +2616,7 @@ export const companiesList: Company[] = [
   {
     name: 'PowerSchool',
     website: 'https://www.powerschool.com/',
-    region: 'North America / India',
+    region: 'North America, India',
   },
   {
     name: 'Pragma',
