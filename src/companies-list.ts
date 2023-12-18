@@ -1519,7 +1519,7 @@ export const companiesList: Company[] = [
     name: 'HashiCorp',
     website: 'https://www.hashicorp.com/',
     region:
-      'United States, Canada, United Kingdom, Germany, FR, NL, Australia, Japan',
+      'United States, Canada, United Kingdom, Germany, France, NL, Australia, Japan',
   },
   {
     name: 'HE:labs',
