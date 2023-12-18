@@ -978,7 +978,7 @@ export const companiesList: Company[] = [
   {
     name: 'Donut App',
     website: 'https://www.donut.app/',
-    region: 'United States, EU',
+    region: 'United States, European Union',
   },
   {
     name: 'DroneDeploy',
