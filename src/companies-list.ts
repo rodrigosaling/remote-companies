@@ -1513,7 +1513,7 @@ export const companiesList: Company[] = [
   {
     name: 'Hashex',
     website: 'https://hashex.org/',
-    region: 'US, Asia, Europe',
+    region: 'United States, Asia, Europe',
   },
   {
     name: 'HashiCorp',
