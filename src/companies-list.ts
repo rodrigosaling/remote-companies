@@ -2484,7 +2484,7 @@ export const companiesList: Company[] = [
   {
     name: 'Pagepro',
     website: 'https://pagepro.co',
-    region: 'United Kingdom, PL, Europe',
+    region: 'United Kingdom, Poland, Europe',
   },
   {
     name: 'PagerDuty',
