@@ -98,7 +98,7 @@ export const companiesList: Company[] = [
   {
     name: 'AE Studio',
     website: 'https://ae.studio/',
-    region: 'USA, BR',
+    region: 'USA, Brazil',
   },
   {
     name: 'Aerolab',
