@@ -3296,7 +3296,7 @@ export const companiesList: Company[] = [
   {
     name: 'Thinkful',
     website: 'https://www.thinkful.com/',
-    region: 'WorldWide',
+    region: 'Worldwide',
   },
   {
     name: 'Third Iron',
