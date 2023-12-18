@@ -3246,7 +3246,7 @@ export const companiesList: Company[] = [
   {
     name: 'Tenable',
     website: 'https://www.tenable.com/',
-    region: 'Worldwide, Primarily United States',
+    region: 'Worldwide, United States',
   },
   {
     name: 'Teravision Technologies',
