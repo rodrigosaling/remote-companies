@@ -1518,7 +1518,8 @@ export const companiesList: Company[] = [
   {
     name: 'HashiCorp',
     website: 'https://www.hashicorp.com/',
-    region: 'United States, Canada, United Kingdom, DE, FR, NL, AU, Japan',
+    region:
+      'United States, Canada, United Kingdom, DE, FR, NL, Australia, Japan',
   },
   {
     name: 'HE:labs',
