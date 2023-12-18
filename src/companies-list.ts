@@ -1683,7 +1683,7 @@ export const companiesList: Company[] = [
   {
     name: 'InfluxData',
     website: 'https://influxdata.com',
-    region: 'USA, UK, DE, IT',
+    region: 'USA, UK, DE, Italy',
   },
   {
     name: 'Inpsyde',
