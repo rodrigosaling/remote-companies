@@ -3231,7 +3231,7 @@ export const companiesList: Company[] = [
   {
     name: 'Teleport',
     website: 'https://teleport.org/',
-    region: 'United States< Europe',
+    region: 'United States, Europe',
   },
   {
     name: 'Telerik',
