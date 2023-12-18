@@ -1840,7 +1840,7 @@ export const companiesList: Company[] = [
   {
     name: 'Joyent',
     website: 'https://www.joyent.com/careers/',
-    region: 'United States, United Kingdom, Canada, SK, SG',
+    region: 'United States, United Kingdom, Canada, SK, Singapore',
   },
   {
     name: 'JupiterOne',
