@@ -23,7 +23,7 @@ export const companiesList: Company[] = [
   {
     name: '18F',
     website: 'https://18f.gsa.gov/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: '1Password',
@@ -58,7 +58,7 @@ export const companiesList: Company[] = [
   {
     name: 'Acivilate',
     website: 'https://acivilate.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Acquia',
@@ -68,12 +68,12 @@ export const companiesList: Company[] = [
   {
     name: 'ActiveCampaign',
     website: 'https://www.activecampaign.com/',
-    region: 'Dublin, Ireland, USA',
+    region: 'Dublin, Ireland, United States',
   },
   {
     name: 'Ad Hoc',
     website: 'https://www.adhocteam.us/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Adaface',
@@ -83,12 +83,12 @@ export const companiesList: Company[] = [
   {
     name: 'Baazarvoice',
     website: 'https://www.bazaarvoice.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Adeva',
     website: 'https://adevait.com/',
-    region: 'Asia, Africa, Europe, South America, USA',
+    region: 'Asia, Africa, Europe, South America, United States',
   },
   {
     name: 'Adzuna',
@@ -98,7 +98,7 @@ export const companiesList: Company[] = [
   {
     name: 'AE Studio',
     website: 'https://ae.studio/',
-    region: 'USA, Brazil',
+    region: 'United States, Brazil',
   },
   {
     name: 'Aerolab',
@@ -108,7 +108,7 @@ export const companiesList: Company[] = [
   {
     name: 'Aerostrat',
     website: 'https://aerostratsoftware.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'AgFlow',
@@ -138,12 +138,12 @@ export const companiesList: Company[] = [
   {
     name: 'AirGarage',
     website: 'https://www.airgarage.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'AirTreks',
     website: 'https://www.airtreks.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Aivitex',
@@ -163,7 +163,7 @@ export const companiesList: Company[] = [
   {
     name: 'Algorand',
     website: 'https://www.algorand.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Algorithmia',
@@ -183,17 +183,17 @@ export const companiesList: Company[] = [
   {
     name: 'Alley',
     website: 'https://alley.co',
-    region: 'USA, Canada, Western Europe',
+    region: 'United States, Canada, Western Europe',
   },
   {
     name: 'allyDVM',
     website: 'https://www.allydvm.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'AlphaSights',
     website: 'https://engineering.alphasights.com',
-    region: 'USA, UK, (EST, GMT)',
+    region: 'United States, UK, (EST, GMT)',
   },
   {
     name: 'Amazon',
@@ -203,7 +203,7 @@ export const companiesList: Company[] = [
   {
     name: 'Ambaum',
     website: 'https://ambaum.com/',
-    region: 'USA, Europe',
+    region: 'United States, Europe',
   },
   {
     name: 'Andela',
@@ -213,7 +213,7 @@ export const companiesList: Company[] = [
   {
     name: 'Animalz',
     website: 'https://www.animalz.co',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Annertech',
@@ -223,12 +223,12 @@ export const companiesList: Company[] = [
   {
     name: 'Anomali',
     website: 'https://www.anomali.com/company/careers',
-    region: 'USA, UK, Singapore',
+    region: 'United States, UK, Singapore',
   },
   {
     name: 'apartment therapy',
     website: 'http://www.apartmenttherapy.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Appinio',
@@ -243,7 +243,7 @@ export const companiesList: Company[] = [
   {
     name: 'Appstractor Corporation',
     website: 'https://www.appstractor.com/',
-    region: 'USA, UK, Israel',
+    region: 'United States, UK, Israel',
   },
   {
     name: 'Appwrite',
@@ -268,7 +268,7 @@ export const companiesList: Company[] = [
   {
     name: 'Art & Logic',
     website: 'https://artandlogic.com',
-    region: 'USA, Canada',
+    region: 'United States, Canada',
   },
   {
     name: 'Artefactual Systems',
@@ -283,12 +283,12 @@ export const companiesList: Company[] = [
   {
     name: 'Astronomer',
     website: 'https://www.astronomer.io/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Atlassian',
     website: 'https://www.atlassian.com/',
-    region: 'USA, Europe, Asia, Australia',
+    region: 'United States, Europe, Asia, Australia',
   },
   {
     name: 'Audiense',
@@ -318,7 +318,7 @@ export const companiesList: Company[] = [
   {
     name: 'Axios',
     website: 'https://axios.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Bairesdev',
@@ -363,7 +363,7 @@ export const companiesList: Company[] = [
   {
     name: 'Bear Group',
     website: 'https://www.beargroup.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'BeBanjo',
@@ -383,7 +383,7 @@ export const companiesList: Company[] = [
   {
     name: 'Betable',
     website: 'https://corp.betable.com/',
-    region: 'USA, Europe',
+    region: 'United States, Europe',
   },
   {
     name: 'BetaPeak',
@@ -393,7 +393,7 @@ export const companiesList: Company[] = [
   {
     name: 'BetterUp',
     website: 'https://www.betterup.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Beyond Company',
@@ -403,17 +403,17 @@ export const companiesList: Company[] = [
   {
     name: 'BeyondPricing',
     website: 'https://beyondpricing.com',
-    region: 'USA, Europe',
+    region: 'United States, Europe',
   },
   {
     name: 'Big Cartel',
     website: 'https://www.bigcartel.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Bill',
     website: 'https://www.bill.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Bit Zesty',
@@ -453,7 +453,7 @@ export const companiesList: Company[] = [
   {
     name: 'Bluespark',
     website: 'https://www.bluespark.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Boldare',
@@ -483,7 +483,7 @@ export const companiesList: Company[] = [
   {
     name: 'Bright Funds',
     website: 'https://www.brightfunds.org',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Brikl',
@@ -493,7 +493,7 @@ export const companiesList: Company[] = [
   {
     name: 'BriteCore',
     website: 'https://britecore.com/',
-    region: 'USA, Worldwide',
+    region: 'United States, Worldwide',
   },
   {
     name: 'Broadwing',
@@ -548,17 +548,17 @@ export const companiesList: Company[] = [
   {
     name: 'Capital One',
     website: 'https://www.capitalonecareers.com/tech',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Carbon Black',
     website: 'https://www.carbonblack.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Cards Against Humanity',
     website: 'https://cardsagainsthumanity.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'CareCru',
@@ -593,22 +593,22 @@ export const companiesList: Company[] = [
   {
     name: 'ChainLink Labs',
     website: 'https://chainlinklabs.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Chargify',
     website: 'https://www.chargify.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'charity: water',
     website: 'https://www.charitywater.org/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'ChatGen',
     website: 'https://chatgen.ai/',
-    region: 'India, USA',
+    region: 'India, United States',
   },
   {
     name: 'Checkly',
@@ -618,7 +618,7 @@ export const companiesList: Company[] = [
   {
     name: 'Chef',
     website: 'https://www.chef.io/',
-    region: 'USA, UK',
+    region: 'United States, UK',
   },
   {
     name: 'ChefsClub',
@@ -643,7 +643,7 @@ export const companiesList: Company[] = [
   {
     name: 'Circonus',
     website: 'https://circonus.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'CivicActions',
@@ -718,7 +718,7 @@ export const companiesList: Company[] = [
   {
     name: 'Cofense',
     website: 'https://cofense.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Coinbase',
@@ -763,12 +763,12 @@ export const companiesList: Company[] = [
   {
     name: 'Consumer Financial Protection Bureau',
     website: 'https://www.consumerfinance.gov',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Continu',
     website: 'https://www.continu.co/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Conversio',
@@ -788,22 +788,22 @@ export const companiesList: Company[] = [
   {
     name: 'Core-Apps',
     website: 'https://www.core-apps.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'CoreOS',
     website: 'https://coreos.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Corgibytes',
     website: 'https://corgibytes.com',
-    region: 'USA East Coast',
+    region: 'United States East Coast',
   },
   {
     name: 'Coursera',
     website: 'https://www.coursera.org/',
-    region: 'USA, Canada',
+    region: 'United States, Canada',
   },
   {
     name: 'Crossover',
@@ -818,7 +818,7 @@ export const companiesList: Company[] = [
   {
     name: 'CrowdTangle',
     website: 'https://crowdtangle.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Cueup',
@@ -838,7 +838,7 @@ export const companiesList: Company[] = [
   {
     name: 'CVS Health',
     website: 'https://jobs.cvshealth.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'CWT',
@@ -903,7 +903,7 @@ export const companiesList: Company[] = [
   {
     name: 'Datica',
     website: 'https://datica.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'DealDash',
@@ -953,7 +953,7 @@ export const companiesList: Company[] = [
   {
     name: 'Discord',
     website: 'https://discord.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Discourse',
@@ -968,7 +968,7 @@ export const companiesList: Company[] = [
   {
     name: 'Docker',
     website: 'https://www.docker.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Doist',
@@ -978,7 +978,7 @@ export const companiesList: Company[] = [
   {
     name: 'Donut App',
     website: 'https://www.donut.app/',
-    region: 'USA, EU',
+    region: 'United States, EU',
   },
   {
     name: 'DroneDeploy',
@@ -1013,12 +1013,12 @@ export const companiesList: Company[] = [
   {
     name: 'EatStreet',
     website: 'https://eatstreet.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'EBSCO Information Services',
     website: 'https://www.ebsco.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Eco-Mind',
@@ -1028,7 +1028,7 @@ export const companiesList: Company[] = [
   {
     name: 'Edgar',
     website: 'https://meetedgar.com/',
-    region: 'USA, Canada',
+    region: 'United States, Canada',
   },
   {
     name: 'Edgio',
@@ -1068,12 +1068,12 @@ export const companiesList: Company[] = [
   {
     name: 'Enok',
     website: 'https://www.enok.co/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Entrision',
     website: 'https://entrision.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Envato',
@@ -1083,7 +1083,7 @@ export const companiesList: Company[] = [
   {
     name: 'Envoy',
     website: 'https://envoy.com/',
-    region: 'USA, Canada, Colombia',
+    region: 'United States, Canada, Colombia',
   },
   {
     name: 'Epam',
@@ -1103,7 +1103,7 @@ export const companiesList: Company[] = [
   {
     name: 'Episource',
     website: 'https://episource.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Equal Experts Portugal',
@@ -1118,7 +1118,7 @@ export const companiesList: Company[] = [
   {
     name: 'Estately',
     website: 'https://www.estately.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Etch',
@@ -1133,7 +1133,7 @@ export const companiesList: Company[] = [
   {
     name: 'EVELO',
     website: 'https://evelo.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Evil Martians',
@@ -1168,7 +1168,7 @@ export const companiesList: Company[] = [
   {
     name: 'Faithlife',
     website: 'https://www.faithlife.com/',
-    region: 'USA, Mexico',
+    region: 'United States, Mexico',
   },
   {
     name: 'Fastly',
@@ -1203,7 +1203,7 @@ export const companiesList: Company[] = [
   {
     name: 'Filament Group',
     website: 'https://www.filamentgroup.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Findify',
@@ -1238,12 +1238,12 @@ export const companiesList: Company[] = [
   {
     name: 'Flexera',
     website: 'https://www.flexera.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'FlightAware',
     website: 'https://flightaware.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Flip',
@@ -1263,7 +1263,7 @@ export const companiesList: Company[] = [
   {
     name: 'FMX',
     website: 'https://www.gofmx.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Focusnetworks',
@@ -1278,7 +1278,7 @@ export const companiesList: Company[] = [
   {
     name: 'Formidable',
     website: 'https://www.formidable.com/',
-    region: 'USA, Canada, UK, Europe',
+    region: 'United States, Canada, UK, Europe',
   },
   {
     name: 'Formstack',
@@ -1323,7 +1323,7 @@ export const companiesList: Company[] = [
   {
     name: 'Gaggle',
     website: 'https://www.gaggle.net/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Geckoboard',
@@ -1338,7 +1338,7 @@ export const companiesList: Company[] = [
   {
     name: 'GEO Jobe',
     website: 'https://www.geo-jobe.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Gerencianet',
@@ -1373,7 +1373,7 @@ export const companiesList: Company[] = [
   {
     name: 'GigSalad',
     website: 'https://www.gigsalad.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Gitbook',
@@ -1408,7 +1408,7 @@ export const companiesList: Company[] = [
   {
     name: 'Gluware',
     website: 'https://gluware.com/',
-    region: 'USA, UK',
+    region: 'United States, UK',
   },
   {
     name: 'GoDaddy',
@@ -1428,22 +1428,22 @@ export const companiesList: Company[] = [
   {
     name: 'Gorman Health Group',
     website: 'https://conveyhealthsolutions.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'GotSoccer',
     website: 'https://www.gotpro.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Grafana Labs',
     website: 'https://grafana.com/',
-    region: 'USA and EMEA/EST Timezones',
+    region: 'United States and EMEA/EST Timezones',
   },
   {
     name: 'Granicus',
     website: 'https://granicus.com/',
-    region: 'USA, UK, Australia, India',
+    region: 'United States, UK, Australia, India',
   },
   {
     name: 'Graylog',
@@ -1453,12 +1453,12 @@ export const companiesList: Company[] = [
   {
     name: 'Gremlin',
     website: 'https://gremlin.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Gridium',
     website: 'https://gridium.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Groove',
@@ -1473,7 +1473,7 @@ export const companiesList: Company[] = [
   {
     name: 'Grubhub',
     website: 'https://www.grubhub.com/',
-    region: 'USA / Worldwide',
+    region: 'United States / Worldwide',
   },
   {
     name: 'Gruntwork',
@@ -1498,12 +1498,12 @@ export const companiesList: Company[] = [
   {
     name: 'Hanzo',
     website: 'https://hanzo.co',
-    region: 'USA, UK, Europe',
+    region: 'United States, UK, Europe',
   },
   {
     name: 'Happy Cog',
     website: 'https://happycog.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Harvest',
@@ -1518,7 +1518,7 @@ export const companiesList: Company[] = [
   {
     name: 'HashiCorp',
     website: 'https://www.hashicorp.com/',
-    region: 'USA, Canada, UK, DE, FR, NL, AU, Japan',
+    region: 'United States, Canada, UK, DE, FR, NL, AU, Japan',
   },
   {
     name: 'HE:labs',
@@ -1528,12 +1528,12 @@ export const companiesList: Company[] = [
   {
     name: 'Headway',
     website: 'https://www.headway.io/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Healthfinch',
     website: 'https://www.healthfinch.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Heap',
@@ -1553,12 +1553,12 @@ export const companiesList: Company[] = [
   {
     name: 'Heroku',
     website: 'https://www.heroku.com/',
-    region: 'USA, Canada, UK, Europe',
+    region: 'United States, Canada, UK, Europe',
   },
   {
     name: 'Hireology',
     website: 'https://www.hireology.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'HomeFlicWeGrow',
@@ -1568,7 +1568,7 @@ export const companiesList: Company[] = [
   {
     name: 'HomeValet',
     website: 'https://homevalet.co',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Honeybadger',
@@ -1583,7 +1583,7 @@ export const companiesList: Company[] = [
   {
     name: 'Hopper',
     website: 'https://www.hopper.com/',
-    region: 'USA, Canada, UK, Bulgaria, PH, Colombia',
+    region: 'United States, Canada, UK, Bulgaria, PH, Colombia',
   },
   {
     name: 'Hotjar',
@@ -1593,7 +1593,7 @@ export const companiesList: Company[] = [
   {
     name: 'Hudl',
     website: 'https://www.hudl.com/',
-    region: 'USA, UK',
+    region: 'United States, UK',
   },
   {
     name: 'Hugo',
@@ -1608,7 +1608,7 @@ export const companiesList: Company[] = [
   {
     name: 'HUSL Digital',
     website: 'https://husldigital.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Hypergiant',
@@ -1643,7 +1643,7 @@ export const companiesList: Company[] = [
   {
     name: 'iFit',
     website: 'https://www.ifit.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Igalia',
@@ -1653,7 +1653,7 @@ export const companiesList: Company[] = [
   {
     name: 'Imagine Learning',
     website: 'https://www.imaginelearning.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Impala',
@@ -1663,7 +1663,7 @@ export const companiesList: Company[] = [
   {
     name: 'Impira',
     website: 'https://www.impira.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Implisense',
@@ -1678,12 +1678,12 @@ export const companiesList: Company[] = [
   {
     name: 'Infinite Red',
     website: 'https://infinite.red',
-    region: 'USA, Canada',
+    region: 'United States, Canada',
   },
   {
     name: 'InfluxData',
     website: 'https://influxdata.com',
-    region: 'USA, UK, DE, Italy',
+    region: 'United States, UK, DE, Italy',
   },
   {
     name: 'Inpsyde',
@@ -1693,7 +1693,7 @@ export const companiesList: Company[] = [
   {
     name: 'InQuicker',
     website: 'https://inquicker.com',
-    region: 'USA, Canada',
+    region: 'United States, Canada',
   },
   {
     name: 'Inshorts',
@@ -1713,7 +1713,7 @@ export const companiesList: Company[] = [
   {
     name: 'Intellum',
     website: 'https://www.intellum.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Interactive Intelligence',
@@ -1733,7 +1733,7 @@ export const companiesList: Company[] = [
   {
     name: 'Intevity',
     website: 'https://www.intevity.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Intuit Inc.',
@@ -1758,7 +1758,7 @@ export const companiesList: Company[] = [
   {
     name: 'IOpipe',
     website: 'https://www.iopipe.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'iOS App Templates',
@@ -1773,7 +1773,7 @@ export const companiesList: Company[] = [
   {
     name: 'IPS Group, Inc.',
     website: 'https://www.ipsgroupinc.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'IQVIA',
@@ -1798,7 +1798,7 @@ export const companiesList: Company[] = [
   {
     name: 'Jackson River',
     website: 'https://jacksonriver.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Jaya Tech',
@@ -1808,7 +1808,7 @@ export const companiesList: Company[] = [
   {
     name: 'JBS Custom Software Solutions',
     website: 'https://www.jbssolutions.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Jitbit',
@@ -1823,7 +1823,7 @@ export const companiesList: Company[] = [
   {
     name: 'Jobsity',
     website: 'https://recruitment.jobsity.com/',
-    region: 'USA, Latin America',
+    region: 'United States, Latin America',
   },
   {
     name: 'Jolly Good Code',
@@ -1838,12 +1838,12 @@ export const companiesList: Company[] = [
   {
     name: 'Joyent',
     website: 'https://www.joyent.com/careers/',
-    region: 'USA, UK, Canada, SK, SG',
+    region: 'United States, UK, Canada, SK, SG',
   },
   {
     name: 'JupiterOne',
     website: 'https://www.jupiterone.com/careers/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Kaggle',
@@ -1863,17 +1863,17 @@ export const companiesList: Company[] = [
   {
     name: 'Kentik',
     website: 'https://www.kentik.com/careers',
-    region: 'USA, Europe, APAC',
+    region: 'United States, Europe, APAC',
   },
   {
     name: 'Khan Academy',
     website: 'https://www.khanacademy.org/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'KickBack Rewards Systems',
     website: 'https://careers.kickbacksystems.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Kinsta',
@@ -1883,7 +1883,7 @@ export const companiesList: Company[] = [
   {
     name: 'Kiprosh',
     website: 'https://kiprosh.com',
-    region: 'USA, India',
+    region: 'United States, India',
   },
   {
     name: 'Kissmetrics',
@@ -1893,12 +1893,12 @@ export const companiesList: Company[] = [
   {
     name: 'Klaviyo',
     website: 'https://www.klaviyo.com/',
-    region: 'USA, UK',
+    region: 'United States, UK',
   },
   {
     name: 'Knack',
     website: 'https://www.knack.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Kodify',
@@ -1933,7 +1933,7 @@ export const companiesList: Company[] = [
   {
     name: 'Kuali',
     website: 'https://kuali.co',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Labelbox',
@@ -1943,7 +1943,7 @@ export const companiesList: Company[] = [
   {
     name: 'Lambda School',
     website: 'https://www.lambdaschool.com/',
-    region: 'USA, Europe',
+    region: 'United States, Europe',
   },
   {
     name: 'Lambert Labs',
@@ -1973,7 +1973,7 @@ export const companiesList: Company[] = [
   {
     name: "Let's Encrypt",
     website: 'https://letsencrypt.org',
-    region: 'USA, Canada',
+    region: 'United States, Canada',
   },
   {
     name: 'Lifen',
@@ -2003,7 +2003,7 @@ export const companiesList: Company[] = [
   {
     name: 'Lincoln Loop',
     website: 'https://lincolnloop.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'LINE Plus Corporation',
@@ -2038,7 +2038,7 @@ export const companiesList: Company[] = [
   {
     name: 'Loadsys Web Strategies',
     website: 'https://www.loadsys.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Localistico',
@@ -2068,7 +2068,7 @@ export const companiesList: Company[] = [
   {
     name: 'Lytx',
     website: 'https://www.lytx.com/en-us/about-us/careers',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'madewithlove',
@@ -2103,7 +2103,7 @@ export const companiesList: Company[] = [
   {
     name: 'Marketade',
     website: 'https://www.marketade.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'MarsBased',
@@ -2123,22 +2123,22 @@ export const companiesList: Company[] = [
   {
     name: 'Mayvue',
     website: 'https://mayvue.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Mediacurrent',
     website: 'https://www.mediacurrent.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Mediavine',
     website: 'https://www.mediavine.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Medium',
     website: 'https://medium.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Memberful',
@@ -2163,7 +2163,7 @@ export const companiesList: Company[] = [
   {
     name: 'MeridianLink',
     website: 'https://meridianlink.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'MetaLab',
@@ -2213,7 +2213,7 @@ export const companiesList: Company[] = [
   {
     name: 'Modern Health',
     website: 'https://www.modernhealth.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Modern Tribe',
@@ -2278,7 +2278,7 @@ export const companiesList: Company[] = [
   {
     name: 'Nationwide',
     website: 'https://www.nationwide.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'NetApp',
@@ -2308,12 +2308,12 @@ export const companiesList: Company[] = [
   {
     name: 'New Context',
     website: 'https://www.newcontext.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'NEXT',
     website: 'https://www.nexttrucking.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'No Code No Problem',
@@ -2338,7 +2338,7 @@ export const companiesList: Company[] = [
   {
     name: 'npm',
     website: 'https://www.npmjs.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Nuage',
@@ -2348,7 +2348,7 @@ export const companiesList: Company[] = [
   {
     name: 'Nuna',
     website: 'https://www.nuna.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Nvidia',
@@ -2358,7 +2358,7 @@ export const companiesList: Company[] = [
   {
     name: "O'Reilly Media",
     website: 'https://www.oreilly.com/',
-    region: 'USA, UK, Japan, China',
+    region: 'United States, UK, Japan, China',
   },
   {
     name: "O'Reilly Online Learning",
@@ -2368,7 +2368,7 @@ export const companiesList: Company[] = [
   {
     name: 'Ocient',
     website: 'https://ocient.com',
-    region: 'USA, Europe, India',
+    region: 'United States, Europe, India',
   },
   {
     name: 'Octopus Deploy',
@@ -2378,7 +2378,7 @@ export const companiesList: Company[] = [
   {
     name: 'Oddball',
     website: 'https://oddball.io/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Okta',
@@ -2398,7 +2398,7 @@ export const companiesList: Company[] = [
   {
     name: 'Ollie',
     website: 'https://www.myollie.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Ollie Order',
@@ -2408,7 +2408,7 @@ export const companiesList: Company[] = [
   {
     name: 'Olo',
     website: 'https://www.olo.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'OmbuLabs',
@@ -2418,12 +2418,12 @@ export const companiesList: Company[] = [
   {
     name: 'OmniTI',
     website: 'https://omniti.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Onna',
     website: 'https://onna.com/',
-    region: 'USA, Europe',
+    region: 'United States, Europe',
   },
   {
     name: 'OnTheGoSystems',
@@ -2463,7 +2463,7 @@ export const companiesList: Company[] = [
   {
     name: 'Our-Hometown Inc.',
     website: 'https://our-hometown.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'OutsourcingDev',
@@ -2488,7 +2488,7 @@ export const companiesList: Company[] = [
   {
     name: 'PagerDuty',
     website: 'https://pagerduty.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Paktor',
@@ -2498,12 +2498,12 @@ export const companiesList: Company[] = [
   {
     name: 'Palantir.net',
     website: 'https://www.palantir.net/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Panther Labs',
     website: 'https://runpanther.io/',
-    region: 'USA, Greece',
+    region: 'United States, Greece',
   },
   {
     name: 'Parabol',
@@ -2538,17 +2538,17 @@ export const companiesList: Company[] = [
   {
     name: 'Paylocity',
     website: 'https://www.paylocity.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'PayScale',
     website: 'https://www.payscale.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Paytm Labs',
     website: 'https://paytmlabs.com/',
-    region: 'Canada, USA',
+    region: 'Canada, United States',
   },
   {
     name: 'PayU',
@@ -2559,7 +2559,7 @@ export const companiesList: Company[] = [
     name: 'Peachworks',
     website:
       'https://www.getbeyond.com/peachworks-restaurant-management-software/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'PeopleDoc',
@@ -2604,7 +2604,7 @@ export const companiesList: Company[] = [
   {
     name: 'PNC Financial Services',
     website: 'https://www.pnc.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Polygon',
@@ -2634,7 +2634,7 @@ export const companiesList: Company[] = [
   {
     name: 'Prelude',
     website: 'https://www.prelude.co/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'PreviousNext',
@@ -2654,7 +2654,7 @@ export const companiesList: Company[] = [
   {
     name: 'PricewaterhouseCoopers',
     website: 'https://www.pwc.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Primer',
@@ -2724,7 +2724,7 @@ export const companiesList: Company[] = [
   {
     name: 'Raft',
     website: 'https://goraft.tech',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Rainforest QA',
@@ -2749,7 +2749,7 @@ export const companiesList: Company[] = [
   {
     name: 'ReactiveOps, Inc.',
     website: 'https://www.reactiveops.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'real.digital',
@@ -2779,7 +2779,7 @@ export const companiesList: Company[] = [
   {
     name: 'Recurly',
     website: 'https://recurly.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Red Hat',
@@ -2789,7 +2789,7 @@ export const companiesList: Company[] = [
   {
     name: 'Reddit',
     website: 'https://www.redditinc.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'RedMonk',
@@ -2799,7 +2799,7 @@ export const companiesList: Company[] = [
   {
     name: 'Redox',
     website: 'https://www.redoxengine.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Reducer',
@@ -2834,7 +2834,7 @@ export const companiesList: Company[] = [
   {
     name: 'Research Square',
     website: 'https://www.researchsquare.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Revolut',
@@ -2844,7 +2844,7 @@ export const companiesList: Company[] = [
   {
     name: 'Roadtrippers',
     website: 'https://www.roadtrippers.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Rocket.Chat',
@@ -2914,7 +2914,7 @@ export const companiesList: Company[] = [
   {
     name: 'Seeq',
     website: 'https://www.seeq.com',
-    region: 'USA, Worldwide',
+    region: 'United States, Worldwide',
   },
   {
     name: 'Semaphore',
@@ -2969,7 +2969,7 @@ export const companiesList: Company[] = [
   {
     name: 'Sigma Defense',
     website: 'https://sigmadefense.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'SignEasy',
@@ -3049,7 +3049,7 @@ export const companiesList: Company[] = [
   {
     name: 'Soostone',
     website: 'https://www.soostone.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Soshace',
@@ -3069,12 +3069,12 @@ export const companiesList: Company[] = [
   {
     name: 'Spreaker',
     website: 'https://spreaker.com/',
-    region: 'USA, Europe',
+    region: 'United States, Europe',
   },
   {
     name: 'Spreedly',
     website: 'https://spreedly.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Spruce',
@@ -3099,7 +3099,7 @@ export const companiesList: Company[] = [
   {
     name: 'Stencil',
     website: 'https://getstencil.com/',
-    region: 'USA, Canada',
+    region: 'United States, Canada',
   },
   {
     name: 'Sticker Mule',
@@ -3109,7 +3109,7 @@ export const companiesList: Company[] = [
   {
     name: 'Stitch Fix',
     website: 'https://www.stitchfix.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'StoneCo',
@@ -3169,12 +3169,12 @@ export const companiesList: Company[] = [
   {
     name: 'Swimlane',
     website: 'https://www.swimlane.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Sysdig️',
     website: 'https://sysdig.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Tag1 Consulting',
@@ -3189,7 +3189,7 @@ export const companiesList: Company[] = [
   {
     name: 'Taplytics',
     website: 'https://taplytics.com/',
-    region: 'USA, Canada',
+    region: 'United States, Canada',
   },
   {
     name: 'Taskade',
@@ -3204,7 +3204,7 @@ export const companiesList: Company[] = [
   {
     name: 'TaxJar',
     website: 'https://www.taxjar.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Teamflow',
@@ -3214,7 +3214,7 @@ export const companiesList: Company[] = [
   {
     name: 'TeamSnap',
     website: 'https://www.teamsnap.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'TeamUltra',
@@ -3224,12 +3224,12 @@ export const companiesList: Company[] = [
   {
     name: 'TED',
     website: 'https://www.ted.com/',
-    region: 'USA, Canada, Brazil',
+    region: 'United States, Canada, Brazil',
   },
   {
     name: 'Teleport',
     website: 'https://teleport.org/',
-    region: 'USA< Europe',
+    region: 'United States< Europe',
   },
   {
     name: 'Telerik',
@@ -3244,7 +3244,7 @@ export const companiesList: Company[] = [
   {
     name: 'Tenable',
     website: 'https://www.tenable.com/',
-    region: 'Worldwide, Primarily USA',
+    region: 'Worldwide, Primarily United States',
   },
   {
     name: 'Teravision Technologies',
@@ -3274,7 +3274,7 @@ export const companiesList: Company[] = [
   {
     name: 'The Publisher Desk',
     website: 'https://www.publisherdesk.com',
-    region: 'UK, USA',
+    region: 'UK, United States',
   },
   {
     name: 'The Scale Factory',
@@ -3299,12 +3299,12 @@ export const companiesList: Company[] = [
   {
     name: 'Third Iron',
     website: 'https://thirdiron.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Thorn',
     website: 'https://thorn.org/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'TimeSpot',
@@ -3314,12 +3314,12 @@ export const companiesList: Company[] = [
   {
     name: 'Tipe',
     website: 'https://tipe.io',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Toast',
     website: 'https://pos.toasttab.com/',
-    region: 'USA, Ireland',
+    region: 'United States, Ireland',
   },
   {
     name: 'toggl',
@@ -3339,7 +3339,7 @@ export const companiesList: Company[] = [
   {
     name: 'Tractionboard ️',
     website: 'https://tractionboard.io/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Transition Technologies - Advanced Solutions',
@@ -3364,7 +3364,7 @@ export const companiesList: Company[] = [
   {
     name: 'Treehouse',
     website: 'https://teamtreehouse.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Trello',
@@ -3379,12 +3379,12 @@ export const companiesList: Company[] = [
   {
     name: 'TrussWorks',
     website: 'https://truss.works',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Tuft & Needle',
     website: 'https://www.tuftandneedle.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Turing',
@@ -3399,7 +3399,7 @@ export const companiesList: Company[] = [
   {
     name: 'Two',
     website: 'https://www.two.ai/',
-    region: 'USA, India, Korea',
+    region: 'United States, India, Korea',
   },
   {
     name: 'Udacity',
@@ -3414,7 +3414,7 @@ export const companiesList: Company[] = [
   {
     name: 'Uncapped',
     website: 'https://weareuncapped.com/',
-    region: 'Europe, USA',
+    region: 'Europe, United States',
   },
   {
     name: 'Upwork Pro',
@@ -3429,7 +3429,7 @@ export const companiesList: Company[] = [
   {
     name: 'USAA',
     website: 'https://usaa.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Ushahidi',
@@ -3439,12 +3439,12 @@ export const companiesList: Company[] = [
   {
     name: 'uShip',
     website: 'https://www.uship.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Valimail',
     website: 'https://www.valimail.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Varnish Software',
@@ -3474,7 +3474,7 @@ export const companiesList: Company[] = [
   {
     name: 'Virta Health',
     website: 'https://www.virtahealth.com',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'VMware',
@@ -3489,12 +3489,12 @@ export const companiesList: Company[] = [
   {
     name: 'Vox Media (Product Team)',
     website: 'https://www.voxmedia.com/',
-    region: 'USA, UK',
+    region: 'United States, UK',
   },
   {
     name: 'Voxy',
     website: 'https://boards.greenhouse.io/voxy',
-    region: 'Brazil, USA',
+    region: 'Brazil, United States',
   },
   {
     name: 'VSHN',
@@ -3504,12 +3504,12 @@ export const companiesList: Company[] = [
   {
     name: 'WalletHub',
     website: 'https://wallethub.com/jobs/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'WebDevStudios',
     website: 'https://webdevstudios.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'WebFX',
@@ -3529,7 +3529,7 @@ export const companiesList: Company[] = [
   {
     name: 'Wells Fargo',
     website: 'https://www.wellsfargo.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'wemake.services',
@@ -3544,7 +3544,7 @@ export const companiesList: Company[] = [
   {
     name: 'Whitecap SEO',
     website: 'https://www.whitecapseo.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'Whitespectre',
@@ -3579,12 +3579,12 @@ export const companiesList: Company[] = [
   {
     name: 'Wolverine Trading',
     website: 'https://www.wolve.com/',
-    region: 'USA, UK',
+    region: 'United States, UK',
   },
   {
     name: 'Wombat Security Technologies',
     website: 'https://www.wombatsecurity.com/',
-    region: 'USA',
+    region: 'United States',
   },
   {
     name: 'WP-Media',
@@ -3669,7 +3669,7 @@ export const companiesList: Company[] = [
   {
     name: 'Zip.co',
     website: 'https://zip.co/us/',
-    region: 'USA, Canada',
+    region: 'United States, Canada',
   },
   {
     name: 'Zolar',
