@@ -1823,7 +1823,7 @@ export const companiesList: Company[] = [
   {
     name: 'Jobsity',
     website: 'https://recruitment.jobsity.com/',
-    region: 'USA, LATAM',
+    region: 'USA, Latin America',
   },
   {
     name: 'Jolly Good Code',
