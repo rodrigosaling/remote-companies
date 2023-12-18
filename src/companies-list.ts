@@ -1519,7 +1519,7 @@ export const companiesList: Company[] = [
     name: 'HashiCorp',
     website: 'https://www.hashicorp.com/',
     region:
-      'United States, Canada, United Kingdom, DE, FR, NL, Australia, Japan',
+      'United States, Canada, United Kingdom, Germany, FR, NL, Australia, Japan',
   },
   {
     name: 'HE:labs',
@@ -1684,7 +1684,7 @@ export const companiesList: Company[] = [
   {
     name: 'InfluxData',
     website: 'https://influxdata.com',
-    region: 'United States, United Kingdom, DE, Italy',
+    region: 'United States, United Kingdom, Germany, Italy',
   },
   {
     name: 'Inpsyde',
