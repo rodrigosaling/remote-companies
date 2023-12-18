@@ -3426,7 +3426,7 @@ export const companiesList: Company[] = [
   {
     name: 'Upworthy',
     website: 'https://www.upworthy.com/',
-    region: 'Worldwide, PDT',
+    region: 'Worldwide, PST',
   },
   {
     name: 'USAA',
@@ -3556,7 +3556,7 @@ export const companiesList: Company[] = [
   {
     name: 'WikiHow',
     website: 'https://www.wikihow.com/wikiHow:About-wikiHow',
-    region: 'PST Timezone',
+    region: 'PST',
   },
   {
     name: 'Wikimedia Foundation',
