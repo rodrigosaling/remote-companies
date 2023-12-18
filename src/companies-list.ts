@@ -2358,7 +2358,7 @@ export const companiesList: Company[] = [
   {
     name: "O'Reilly Media",
     website: 'https://www.oreilly.com/',
-    region: 'USA, UK, Japan, CHN',
+    region: 'USA, UK, Japan, China',
   },
   {
     name: "O'Reilly Online Learning",
