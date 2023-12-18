@@ -1584,7 +1584,8 @@ export const companiesList: Company[] = [
   {
     name: 'Hopper',
     website: 'https://www.hopper.com/',
-    region: 'United States, Canada, United Kingdom, Bulgaria, PH, Colombia',
+    region:
+      'United States, Canada, United Kingdom, Bulgaria, Philippines, Colombia',
   },
   {
     name: 'Hotjar',
