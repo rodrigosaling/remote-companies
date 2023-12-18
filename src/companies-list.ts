@@ -1518,7 +1518,7 @@ export const companiesList: Company[] = [
   {
     name: 'HashiCorp',
     website: 'https://www.hashicorp.com/',
-    region: 'USA, CA, UK, DE, FR, NL, AU, JPN',
+    region: 'USA, Canada, UK, DE, FR, NL, AU, JPN',
   },
   {
     name: 'HE:labs',
@@ -1553,7 +1553,7 @@ export const companiesList: Company[] = [
   {
     name: 'Heroku',
     website: 'https://www.heroku.com/',
-    region: 'USA, CA, UK, Europe',
+    region: 'USA, Canada, UK, Europe',
   },
   {
     name: 'Hireology',
@@ -1583,7 +1583,7 @@ export const companiesList: Company[] = [
   {
     name: 'Hopper',
     website: 'https://www.hopper.com/',
-    region: 'USA, CA, UK, BG, PH, CO',
+    region: 'USA, Canada, UK, BG, PH, CO',
   },
   {
     name: 'Hotjar',
@@ -1678,7 +1678,7 @@ export const companiesList: Company[] = [
   {
     name: 'Infinite Red',
     website: 'https://infinite.red',
-    region: 'USA, CA',
+    region: 'USA, Canada',
   },
   {
     name: 'InfluxData',
@@ -1693,7 +1693,7 @@ export const companiesList: Company[] = [
   {
     name: 'InQuicker',
     website: 'https://inquicker.com',
-    region: 'USA, CA',
+    region: 'USA, Canada',
   },
   {
     name: 'Inshorts',
@@ -3224,7 +3224,7 @@ export const companiesList: Company[] = [
   {
     name: 'TED',
     website: 'https://www.ted.com/',
-    region: 'USA, CA, Brazil',
+    region: 'USA, Canada, Brazil',
   },
   {
     name: 'Teleport',
