@@ -72,7 +72,9 @@ const IndexPage: React.FC<PageProps> = () => {
               <tr key={company.name}>
                 <td>{company.name}</td>
                 <td>
-                  <a href={company.website}>{company.website}</a>
+                  <a href={company.website} target="_blank">
+                    {company.website}
+                  </a>
                 </td>
                 <td>{company.region}</td>
               </tr>
