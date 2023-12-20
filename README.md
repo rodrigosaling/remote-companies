@@ -11,3 +11,4 @@ A searchable and filterable list of companies that hire remote people from anywh
 - [ ] Filter by timezones;
 - [ ] Add company descriptions and more details?;
 - [ ] Scrap their websites to get the available open positions (and details). Maybe this is against some copyright law?;
+- [ ] Bring each companies score from Glassdoor;
