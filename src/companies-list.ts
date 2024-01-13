@@ -2169,7 +2169,7 @@ export const companiesList: Company[] = [
   },
   {
     name: 'MetaLab',
-    website: 'https://metalab.co',
+    website: 'https://www.metalab.com/',
     region: 'Worldwide',
   },
   {
