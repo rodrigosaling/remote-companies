@@ -1593,6 +1593,11 @@ export const companiesList: Company[] = [
     region: 'Worldwide',
   },
   {
+    name: 'Housecall Pro',
+    website: 'https://www.housecallpro.com/',
+    region: 'Worldwide',
+  },
+  {
     name: 'Hudl',
     website: 'https://www.hudl.com/',
     region: 'United States, United Kingdom',
